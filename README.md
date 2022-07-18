@@ -2,6 +2,9 @@
 
 Free Tool `Work smart` based to Control And Restore Linux[ Parrot os] Desktop System Settings Using `Dconf` package
 
+Keyboard Layout Support : [ "Arabic" , "English" , " Frensh > Morocco " ]
+
+
 ![ffffffff (1)](https://user-images.githubusercontent.com/42983220/179581715-1df20bf1-1108-41c0-8d9b-208b5676e248.png)
 
 
