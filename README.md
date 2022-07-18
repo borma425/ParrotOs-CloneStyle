@@ -20,7 +20,9 @@ cd ParrotOs-CloneStyle
 --------------
 
 
-```console ## These commands will help you :
+```console 
+
+## These commands will help you :
 
 -rec :
         To choose a style, we have recommended it to you and it is simple
