@@ -1,9 +1,22 @@
-# ParrotOs-CloneStyle
+## ParrotOs-CloneStyle
 
 Free Tool `Work smart` based to Control And Restore Linux[ Parrot os] Desktop System Settings Using `Dconf` package
 
+# install
+
+Download The .zip file Or use Git Clone 
+
+```console 
+
+git clone https://github.com/borma425/ParrotOs-CloneStyle
+
+cd ParrotOs-CloneStyle
 
 
+```
+
+
+# Using
 --------------
 
 
