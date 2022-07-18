@@ -7,7 +7,7 @@ Free Tool `Work smart` based to Control And Restore Linux[ Parrot os] Desktop Sy
 --------------
 
 
-``` ## These commands will help you :
+```console ## These commands will help you :
 
 -rec :
         To choose a style, we have recommended it to you and it is simple
@@ -21,3 +21,8 @@ Free Tool `Work smart` based to Control And Restore Linux[ Parrot os] Desktop Sy
         To show help commands
         
 ------------ ```
+
+## Example :
+
+
+bash render.sh -rec 
